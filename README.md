@@ -25,3 +25,17 @@
 > 2024.09. ~ Present 
 > Python Process | AI Theory and Practice Course | ROS2 Theory and Practice, and 8 Projects
 >
+
+### 🌱 Github Stats  
+
+<div align="center">
+  <div style="display: flex;">
+    <img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api?username=malenwater&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
+    <img align="center" style="height:170px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=malenwater" alt="Solved.ac Profile" />
+  </div>
+</div>
+<br />
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
