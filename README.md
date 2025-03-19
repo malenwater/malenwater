@@ -36,6 +36,17 @@
 </div>
 <br />
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malenwater&theme=github_dark)
 
 
+<div align="center">
+  <div style="display: flex, height:180px">
+    <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/malenwater"
+      width="1000"
+      height="300"
+    />
+    </a>
+  </div>
+</div>
