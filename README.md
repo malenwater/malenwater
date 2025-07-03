@@ -6,7 +6,10 @@
   
 ## ⚾ About me!
   <!-- 헤더 이미지 -->
-  헤더 이미지 제작해서 올리기
+  이선우
+  이메일 : dltjsdn1191@gmail.com
+  깃허브 : https://github.com/malenwater
+  블로그 : https://rmalen.tistory.com/
 
 </div>
   <!-- 자랑할 거 몇개 올리기 -->
@@ -14,7 +17,7 @@
 ### 🌱 Career
 
 > 🎓 **Ajou University of Computing and Informatics**  
-> 2019.03. ~ Present  
+> 2019.03. ~ 2025.08  
 > Major: Software and Computer Engineering 
 > 
 > 🐤 **Human-centered Mobile Systems Lab undergraduate student intern(MES Lab)**  
@@ -22,9 +25,12 @@
 > Professor & Paper Review | Research under Master's Guidance
 > 
 > 🤖 **Rokey Bootcamp 2st (in Guro)**  
-> 2024.09. ~ Present 
+> 2024.09. ~ 2025.03 
 > Python Process | AI Theory and Practice Course | ROS2 Theory and Practice, and 8 Projects
 >
+> 🤖 ** Virtual AutoRace 2025 가상환경자율주행경진대회 **  
+> 2025.07. ~ 2025.08 
+> Python Process | AI Theory | ROS Theory | Morai
 
 ### 🌱 Github Stats  
 
